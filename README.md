@@ -1,9 +1,7 @@
 🌐 Bapel Proxy Grabber
 Bapel Proxy Grabber is a lightweight, high-performance desktop application designed to scrape, validate, and manage public proxies. Built with the power of Golang and Wails, it offers a modern, cyber-glass interface and blazing fast speeds.
 
-[Download Latest Version Here] (Link to your Releases page)
-
-(Don't forget to replace the link above with a real screenshot of your app)
+([Download Latest Version Here](https://github.com/bapelindo/BapelProxyGrabber/releases/tag/1.0.0))  
 
 ✨ Key Features
 🚀 High-Speed Scraper: Automatically fetches thousands of proxies from built-in sources and community lists.
