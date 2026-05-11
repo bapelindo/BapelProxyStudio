@@ -4,7 +4,11 @@ Bapel Proxy Studio is a compiled desktop application engineered for automated pr
 
 [Download Latest Release](https://github.com/bapelindo/BapelProxyRotator/releases/tag/1.0.0)
 
-![Application Screenshot]()
+![Application Screenshot]
+
+(https://github.com/bapelindo/BapelProxyStudio/blob/main/Screenshot%202026-05-12%20050039.png)
+
+(https://github.com/bapelindo/BapelProxyStudio/blob/main/Screenshot%202026-05-12%20050004.png)
 
 ## Core Architecture & Features
 
